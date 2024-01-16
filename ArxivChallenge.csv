@@ -1,0 +1,750 @@
+Title,Published,Summary
+Cyber Security Behaviour In Organisations,2020-04-24T14:17:46Z,"This review explores the academic and policy literature in the context of
+everyday cyber security in organisations. In so doing, it identifies four
+behavioural sets that influences how people practice cyber security. These are
+compliance with security policy, intergroup coordination and communication,
+phishing/email behaviour, and password behaviour. However, it is important to
+note that these are not exhaustive and they do not exist in isolation. In
+addition, the review explores the notion of security culture as an overarching
+theme that overlaps and frames the four behavioural sets. The aim of this
+review is therefore to provide a summary of the existing literature in the area
+of everyday cyber security within the social sciences, with a particular focus
+on organisational contexts. In doing so, it develops a series of suggestions
+for future research directions based on existing gaps in the literature. The
+review also includes a theoretical lens that will aid the understanding of
+existing studies and wider literatures. Where possible, the review makes
+recommendations for organisations in relation to everyday cyber security."
+Uncertainty in Cyber Security Investments,2017-12-16T02:05:44Z,"When undertaking cyber security risk assessments, we must assign numeric
+values to metrics to compute the final expected loss that represents the risk
+that an organization is exposed to due to cyber threats. Even if risk
+assessment is motivated from real-world observations and data, there is always
+a high chance of assigning inaccurate values due to different uncertainties
+involved (e.g., evolving threat landscape, human errors) and the natural
+difficulty of quantifying risk per se. Our previous work has proposed a model
+and a software tool that empowers organizations to compute optimal cyber
+security strategies given their financial constraints, i.e., available cyber
+security budget. We have also introduced a general game-theoretic model with
+uncertain payoffs (probability-distribution-valued payoffs) showing that such
+uncertainty can be incorporated in the game-theoretic model by allowing payoffs
+to be random. In this paper, we combine our aforesaid works and we conclude
+that although uncertainties in cyber security risk assessment lead, on average,
+to different cyber security strategies, they do not play significant role into
+the final expected loss of the organization when using our model and
+methodology to derive this strategies. We show that our tool is capable of
+providing effective decision support. To the best of our knowledge this is the
+first paper that investigates how uncertainties on various parameters affect
+cyber security investments."
+Cyber security and the Leviathan,2022-03-10T09:35:36Z,"Dedicated cyber-security functions are common in commercial businesses, who
+are confronted by evolving and pervasive threats of data breaches and other
+perilous security events. Such businesses are enmeshed with the wider societies
+in which they operate. Using data gathered from in-depth, semi-structured
+interviews with 15 Chief Information Security Officers, as well as six senior
+organisational leaders, we show that the work of political philosopher Thomas
+Hobbes, particularly Leviathan, offers a useful lens through which to
+understand the context of these functions and of cyber security in Western
+society. Our findings indicate that cyber security within these businesses
+demonstrates a number of Hobbesian features that are further implicated in, and
+provide significant benefits to, the wider Leviathan-esque state. These include
+the normalisation of intrusive controls, such as surveillance, and the
+stimulation of consumption. We conclude by suggesting implications for
+cyber-security practitioners, in particular, the reflexivity that these
+perspectives offer, as well as for businesses and other researchers."
+Mathematical and Statistical Opportunities in Cyber Security,2009-04-09T22:30:03Z,"The role of mathematics in a complex system such as the Internet has yet to
+be deeply explored. In this paper, we summarize some of the important and
+pressing problems in cyber security from the viewpoint of open science
+environments. We start by posing the question ""What fundamental problems exist
+within cyber security research that can be helped by advanced mathematics and
+statistics?"" Our first and most important assumption is that access to
+real-world data is necessary to understand large and complex systems like the
+Internet. Our second assumption is that many proposed cyber security solutions
+could critically damage both the openness and the productivity of scientific
+research. After examining a range of cyber security problems, we come to the
+conclusion that the field of cyber security poses a rich set of new and
+exciting research opportunities for the mathematical and statistical sciences."
+Cyber Security of Smart Grid Infrastructure,2014-01-16T08:53:28Z,"Smart grid security is crucial to maintain stable and reliable power system
+operation during the contingency situation due to the failure of any critical
+power system component. Ensuring a secured smart grid involves with a less
+possibility of power grid collapse or equipment malfunction. Due to lack of the
+proper security measures, a major blackout may occur which can even lead to a
+cascading failure. Therefore, to protect this critical power system
+infrastructure and to ensure a reliable and an uninterrupted power supply to
+the end users, smart grid security issues must be addressed with high priority.
+In a smart grid environment, electric power infrastructure is modernized by
+incorporating the current and future requirements and advanced functionalities
+to its consumers. To make the smart grid happen, cyber system is integrated
+with the physical power system. Although adoption of cyber system has made the
+grid more energy efficient and modernized, it has introduced cyber-attack
+issues which are critical for national infrastructure security and customer
+satisfaction. Due to the cyber-attack, power grid may face operational failures
+and loss of synchronization. This operational failure may damage critical power
+system components which may interrupt the power supply and make the system
+unstable resulting high financial penalties. In this chapter, some recent cyber
+attack related incidents into a smart grid environment are discussed. The
+requirements and the state of the art of cyber security issues of a critical
+power system infrastructure are illustrated elaborately."
+Prediction in Cyber Security: Complications and Consolations,2018-04-23T19:04:02Z,"Uncertainty, error, and similar complications add to the many challenges of
+cyber security. Various disciplines have developed methods for managing these
+complications, but applying these methods involves disambiguating overlapping
+terminology and determining a method's proper usage in the context of cyber
+security, which has unique properties. This process is here guided by the need
+for prediction, which is required for cyber security to become more like
+traditional sciences. A motivating malware analysis example is defined. A
+five-element ontology of complications for prediction is presented, and
+concepts from numerous disciplines are mapped to it in terms of the motivating
+example."
+Automated Big Traffic Analytics for Cyber Security,2018-04-24T13:36:54Z,"Network traffic analytics technology is a cornerstone for cyber security
+systems. We demonstrate its use through three popular and contemporary cyber
+security applications in intrusion detection, malware analysis and botnet
+detection. However, automated traffic analytics faces the challenges raised by
+big traffic data. In terms of big data's three characteristics --- volume,
+variety and velocity, we review three state of the art techniques to mitigate
+the key challenges including real-time traffic classification, unknown traffic
+classification, and efficiency of classifiers. The new techniques using
+statistical features, unknown discovery and correlation analytics show
+promising potentials to deal with big traffic data. Readers are encouraged to
+devote to improving the performance and practicability of automatic traffic
+analytic in cyber security."
+Advanced Analytics for Connected Cars Cyber Security,2017-11-06T15:13:35Z,"The vehicular connectivity revolution is fueling the automotive industry's
+most significant transformation seen in decades. However, as modern vehicles
+become more connected, they also become much more vulnerable to cyber-attacks.
+In this paper, a fully working machine learning approach is proposed to protect
+connected vehicles (fleets and individuals) against such attacks. We present a
+system that monitors different vehicle's interfaces (Network, CAN and OS),
+extracts relevant information based on configurable rules and sends it to a
+trained generative model to detect deviations from normal behavior. Using
+configurable data collector, we provide a higher level of data abstraction as
+the model is trained based on events instead of raw data, which has a
+noise-filtering effect and eliminates the need to retrain the model whenever a
+protocol changes. We present a new approach for detecting anomalies, tailored
+to the temporal nature of our domain. Adapting the hybrid approach of Gutflaish
+et al. (2017) to the fully temporal setting, we first train a Hidden Markov
+Model to learn normal vehicle behavior, and then a regression model to
+calibrate the likelihood threshold for anomaly. Using this architecture, our
+method detects sophisticated and realistic anomalies, which are missed by other
+existing methods monitoring the CAN bus only. We also demonstrate the
+superiority of adaptive thresholds over static ones. Furthermore, our approach
+scales efficiently from monitoring individual cars to serving large fleets. We
+demonstrate the competitive advantage of our model via encouraging empirical
+results."
+Detecting periodic subsequences in cyber security data,2017-06-05T03:26:31Z,"Statistical approaches to cyber-security involve building realistic
+probability models of computer network data. In a data pre-processing phase,
+separating automated events from those caused by human activity should improve
+statistical model building and enhance anomaly detection capabilities. This
+article presents a changepoint detection framework for identifying periodic
+subsequences of event times. The opening event of each subsequence can be
+interpreted as a human action which then generates an automated, periodic
+process. Difficulties arising from the presence of duplicate and missing data
+are addressed. The methodology is demonstrated using authentication data from
+the computer network of Los Alamos National Laboratory."
+Airport Cyber Security and Cyber Resilience Controls,2019-08-26T20:00:00Z,"Cyber Security scares are the main areas of demerits associated with the
+advent and widespread of internet technology. While the internet has improved
+life and business processes, the levels of security threats have been
+increasing proportionally. As such, the web and the related cyber systems have
+exposed the world to the state of continuous vigilance because of the
+existential threats of attacks. Criminals are in the constant state of
+attempting cybersecurity defense of various infrastructures and businesses.
+Airports are some of the areas where cybersecurity means a lot of things. The
+reason for the criticality of cybersecurity in airports concerns the high
+integration of internet and computer systems in the operations of airports.
+This paper is about airport cybersecurity and resilience controls. At the start
+of the article is a comprehensive introduction that provides a preview of the
+entire content. In the paper, there are discussions of airport intelligence
+classification, cybersecurity malicious threats analysis, and research
+methodology. A concise conclusion marks the end of the article."
+Serious Games for Cyber Security Education,2016-10-29T13:56:16Z,"Phishing is an online identity theft that aims to steal sensitive information
+such as username, passwords and online banking details from its victims.
+Phishing education needs to be considered as a means to combat this threat.
+This book focuses on a design and development of a mobile game prototype as an
+educational tool helping computer users to protect themselves against phishing
+attacks. The elements of a game design framework for avoiding phishing attacks
+were used to address the game design issues. The mobile game design aimed to
+enhance the user's avoidance behaviour through motivation to protect themselves
+against phishing threats. A think-aloud study was conducted, along with a pre-
+and post-test, to assess the game design framework through the developed mobile
+game prototype. The study results showed a significant improvement of
+participants' phishing avoidance behaviour in their post-test assessment.
+Furthermore, the study findings suggest that participants' threat perception,
+safeguard effectiveness, self-efficacy, perceived severity and perceived
+susceptibility elements positively impact threat avoidance behaviour, whereas
+safeguard cost had a negative impact on it."
+Gamification Techniques for Raising Cyber Security Awareness,2019-03-20T11:45:26Z,"Due to the prevalence of online services in modern society, such as internet
+banking and social media, it is important for users to have an understanding of
+basic security measures in order to keep themselves safe online. However, users
+often do not know how to make their online interactions secure, which
+demonstrates an educational need in this area. Gamification has grown in
+popularity in recent years and has been used to teach people about a range of
+subjects. This paper presents an exploratory study investigating the use of
+gamification techniques to educate average users about password security, with
+the aim of raising overall security awareness. To explore the impact of such
+techniques, a role-playing quiz application (RPG) was developed for the Android
+platform to educate users about password security. Results gained from the work
+highlighted that users enjoyed learning via the use of the password
+application, and felt they benefitted from the inclusion of gamification
+techniques. Future work seeks to expand the prototype into a full solution,
+covering a range of security awareness issues."
+Deep Reinforcement Learning for Cyber Security,2019-06-13T16:34:12Z,"The scale of Internet-connected systems has increased considerably, and these
+systems are being exposed to cyber attacks more than ever. The complexity and
+dynamics of cyber attacks require protecting mechanisms to be responsive,
+adaptive, and scalable. Machine learning, or more specifically deep
+reinforcement learning (DRL), methods have been proposed widely to address
+these issues. By incorporating deep learning into traditional RL, DRL is highly
+capable of solving complex, dynamic, and especially high-dimensional cyber
+defense problems. This paper presents a survey of DRL approaches developed for
+cyber security. We touch on different vital aspects, including DRL-based
+security methods for cyber-physical systems, autonomous intrusion detection
+techniques, and multiagent DRL-based game theory simulations for defense
+strategies against cyber attacks. Extensive discussions and future research
+directions on DRL-based cyber security are also given. We expect that this
+comprehensive review provides the foundations for and facilitates future
+studies on exploring the potential of emerging DRL to cope with increasingly
+complex cyber security problems."
+Cyber Security in Cloud: Risk Assessment Models,2021-06-19T14:37:31Z,"The present paper shows a proposal of the characteristics Cloud Risk
+Assessment Models should have and presents the review of the literature
+considering those characteristics in order to identify current gaps. This work
+shows a ranking of Cloud RA models and their degree of compliance with the
+theoretical reference Cloud Risk Assessment model. The review of literature
+shows that RA approaches leveraging CSA (Cloud Security Alliance) STAR Registry
+that have into account organizations security requirements present higher
+degree of compliance, but they still lack risk economic quantification. The
+myriad of conceptual models, methodologies and frameworks although based on
+current NIST SP 800:30, ISO 27001, ISO 27005, ISO 30001, ENISA standards could
+be enhanced by the use of techno-economic models like UTEM, created by the
+author, in order to conceive more simplified models for effective Risk
+Assessment and Mitigation closer to the theoretical reference model for Cloud
+Risk Assessment, available for all cloud models (IaaS, PaaS, SaaS) and easy to
+use for all stakeholders."
+Developing and Building Ontologies in Cyber Security,2023-06-01T06:19:01Z,"Cyber Security is one of the most arising disciplines in our modern society.
+We work on Cybersecurity domain and in this the topic we chose is Cyber
+Security Ontologies. In this we gather all latest and previous ontologies and
+compare them on the basis of different analyzing factors to get best of them.
+Reason to select this topic is to assemble different ontologies from different
+era of time. Because, researches that included in this SLR is mostly studied
+single ontology. If any researcher wants to study ontologies, he has to study
+every single ontology and select which one is best for his research. So, we
+assemble different types of ontology and compare them against each other to get
+best of them. A total 24 papers between years 2010-2020 are carefully selected
+through systematic process and classified accordingly. Lastly, this SLR have
+been presented to provide the researchers promising future directions in the
+domain of cybersecurity ontologies."
+Towards a Networks-of-Networks Framework for Cyber Security,2013-04-24T21:35:19Z,"Networks-of-networks (NoN) is a graph-theoretic model of interdependent
+networks that have distinct dynamics at each network (layer). By adding special
+edges to represent relationships between nodes in different layers, NoN
+provides a unified mechanism to study interdependent systems intertwined in a
+complex relationship. While NoN based models have been proposed for
+cyber-physical systems, in this position paper we build towards a three-layered
+NoN model for an enterprise cyber system. Each layer captures a different facet
+of a cyber system. We present in-depth discussion for four major graph-
+theoretic applications to demonstrate how the three-layered NoN model can be
+leveraged for continuous system monitoring and mission assurance."
+Automatic Labeling for Entity Extraction in Cyber Security,2013-08-22T18:23:25Z,"Timely analysis of cyber-security information necessitates automated
+information extraction from unstructured text. While state-of-the-art
+extraction methods produce extremely accurate results, they require ample
+training data, which is generally unavailable for specialized applications,
+such as detecting security related entities; moreover, manual annotation of
+corpora is very costly and often not a viable solution. In response, we develop
+a very precise method to automatically label text from several data sources by
+leveraging related, domain-specific, structured data and provide public access
+to a corpus annotated with cyber-security entities. Next, we implement a
+Maximum Entropy Model trained with the average perceptron on a portion of our
+corpus ($\sim$750,000 words) and achieve near perfect precision, recall, and
+accuracy, with training times under 17 seconds."
+A Supervisory Control Approach to Dynamic Cyber-Security,2014-09-02T19:42:10Z,"An analytical approach for a dynamic cyber-security problem that captures
+progressive attacks to a computer network is presented. We formulate the
+dynamic security problem from the defender's point of view as a supervisory
+control problem with imperfect information, modeling the computer network's
+operation by a discrete event system. We consider a min-max performance
+criterion and use dynamic programming to determine, within a restricted set of
+policies, an optimal policy for the defender. We study and interpret the
+behavior of this optimal policy as we vary certain parameters of the
+supervisory control problem."
+A Predictive Framework for Cyber Security Analytics using Attack Graphs,2015-02-04T15:47:56Z,"Security metrics serve as a powerful tool for organizations to understand the
+effectiveness of protecting computer networks. However majority of these
+measurement techniques don't adequately help corporations to make informed risk
+management decisions. In this paper we present a stochastic security framework
+for obtaining quantitative measures of security by taking into account the
+dynamic attributes associated with vulnerabilities that can change over time.
+Our model is novel as existing research in attack graph analysis do not
+consider the temporal aspects associated with the vulnerabilities, such as the
+availability of exploits and patches which can affect the overall network
+security based on how the vulnerabilities are interconnected and leveraged to
+compromise the system. In order to have a more realistic representation of how
+the security state of the network would vary over time, a nonhomogeneous model
+is developed which incorporates a time dependent covariate, namely the
+vulnerability age. The daily transition-probability matrices are estimated
+using Frei's Vulnerability Lifecycle model. We also leverage the trusted CVSS
+metric domain to analyze how the total exploitability and impact measures
+evolve over a time period for a given network."
+Comparing Decision Support Approaches for Cyber Security Investment,2015-02-19T11:30:03Z,"When investing in cyber security resources, information security managers
+have to follow effective decision-making strategies. We refer to this as the
+cyber security investment challenge. In this paper, we consider three possible
+decision-support methodologies for security managers to tackle this challenge.
+We consider methods based on game theory, combinatorial optimisation and a
+hybrid of the two. Our modelling starts by building a framework where we can
+investigate the effectiveness of a cyber security control regarding the
+protection of different assets seen as targets in presence of commodity
+threats. In terms of game theory we consider a 2-person control game between
+the security manager who has to choose among different implementation levels of
+a cyber security control, and a commodity attacker who chooses among different
+targets to attack. The pure game theoretical methodology consists of a large
+game including all controls and all threats. In the hybrid methodology the game
+solutions of individual control-games along with their direct costs (e.g.
+financial) are combined with a knapsack algorithm to derive an optimal
+investment strategy. The combinatorial optimisation technique consists of a
+multi-objective multiple choice knapsack based strategy. We compare these
+approaches on a case study that was built on SANS top critical controls. The
+main achievements of this work is to highlight the weaknesses and strengths of
+different investment methodologies for cyber security, the benefit of their
+interaction, and the impact that indirect costs have on cyber security
+investment."
+"Recommendations on Future Operational Environments Command Control and
+  Cyber Security",2015-02-23T13:37:29Z,"It is a well-known fact that today a nation's telecommunication networks,
+critical infrastructure, and information systems are vulnerable to growing
+number of attacks in cyberspace. Cyber space contains very different problems
+involving various sets of threats, targets and costs. Cyber security is not
+only problem of banking, communication or transportation. It also threatens
+core systems of army as command control. Some significant recommendations on
+command control (C2) and cyber security have been suggested for army computing
+environment in this paper. This study addresses priorities of ""what should be
+done for a better army cyber future"" to cyber security researchers."
+Towards a relation extraction framework for cyber-security concepts,2015-04-16T17:26:24Z,"In order to assist security analysts in obtaining information pertaining to
+their network, such as novel vulnerabilities, exploits, or patches, information
+retrieval methods tailored to the security domain are needed. As labeled text
+data is scarce and expensive, we follow developments in semi-supervised Natural
+Language Processing and implement a bootstrapping algorithm for extracting
+security entities and their relationships from text. The algorithm requires
+little input data, specifically, a few relations or patterns (heuristics for
+identifying relations), and incorporates an active learning component which
+queries the user on the most important decisions to prevent drifting from the
+desired relations. Preliminary testing on a small corpus shows promising
+results, obtaining precision of .82."
+Mitigating Hardware Cyber-Security Risks in Error Correcting Decoders,2015-05-06T03:47:36Z,"This paper investigates hardware cyber-security risks associated with channel
+decoders, which are commonly acquired as a black box in semiconductor industry.
+It is shown that channel decoders are potentially attractive targets for
+hardware cyber-security attacks and can be easily embedded with malicious
+blocks. Several attack scenarios are considered in this work and suitable
+methods for mitigating the risks are proposed. These methods are based on
+randomizing the inputs of the channel decoder to obstruct the communications
+between attackers and the malicious blocks, ideally without changing the
+decoding performance."
+Mean-field-game model for Botnet defense in Cyber-security,2015-11-20T15:32:31Z,"We initiate the analysis of the response of computer owners to various offers
+of defence systems
+  against a cyber-hacker (for instance, a botnet attack), as a stochastic game
+of a large number of interacting agents. We introduce a simple mean-field game
+that models their behavior. It takes into account both the random process of
+the propagation of the infection (controlled by the botner herder) and the
+decision making process of customers. Its stationary version turns out to be
+exactly solvable (but not at all trivial) under an additional natural
+assumption that the execution time of the decisions of the customers (say,
+switch on or out the defence system) is much faster that the infection rates."
+Human Behaviour as an aspect of Cyber Security Assurance,2016-01-15T13:56:49Z,"There continue to be numerous breaches publicised pertaining to cyber
+security despite security practices being applied within industry for many
+years. This article is intended to be the first in a number of articles as
+research into cyber security assurance processes. This article is compiled
+based on current research related to cyber security assurance and the impact of
+the human element on it. The objective of this work is to identify elements of
+cyber security that would benefit from further research and development based
+on the literature review findings. The results outlined in this article present
+a need for the cyber security field to look in to established industry areas to
+benefit from effective practices such as human reliability assessment, along
+with improved methods of validation such as statistical quality control in
+order to obtain true assurance. The article proposes the development of a
+framework that will be based upon defined and repeatable quantification,
+specifically relating to the range of human aspect tasks that provide, or are
+intended not to negatively affect cyber security posture."
+"Modelling Cyber-Security Experts' Decision Making Processes using
+  Aggregation Operators",2016-08-30T15:21:42Z,"An important role carried out by cyber-security experts is the assessment of
+proposed computer systems, during their design stage. This task is fraught with
+difficulties and uncertainty, making the knowledge provided by human experts
+essential for successful assessment. Today, the increasing number of
+progressively complex systems has led to an urgent need to produce tools that
+support the expert-led process of system-security assessment. In this research,
+we use weighted averages (WAs) and ordered weighted averages (OWAs) with
+evolutionary algorithms (EAs) to create aggregation operators that model parts
+of the assessment process. We show how individual overall ratings for security
+components can be produced from ratings of their characteristics, and how these
+individual overall ratings can be aggregated to produce overall rankings of
+potential attacks on a system. As well as the identification of salient attacks
+and weak points in a prospective system, the proposed method also highlights
+which factors and security components contribute most to a component's
+difficulty and attack ranking respectively. A real world scenario is used in
+which experts were asked to rank a set of technical attacks, and to answer a
+series of questions about the security components that are the subject of the
+attacks. The work shows how finding good aggregation operators, and identifying
+important components and factors of a cyber-security problem can be automated.
+The resulting operators have the potential for use as decision aids for systems
+designers and cyber-security experts, increasing the amount of assessment that
+can be achieved with the limited resources available."
+Traffic-aware Patching for Cyber Security in Mobile IoT,2017-03-15T21:59:05Z,"The various types of communication technologies and mobility features in
+Internet of Things (IoT) on the one hand enable fruitful and attractive
+applications, but on the other hand facilitates malware propagation, thereby
+raising new challenges on handling IoT-empowered malware for cyber security.
+Comparing with the malware propagation control scheme in traditional wireless
+networks where nodes can be directly repaired and secured, in IoT, compromised
+end devices are difficult to be patched. Alternatively, blocking malware via
+patching intermediate nodes turns out to be a more feasible and practical
+solution. Specifically, patching intermediate nodes can effectively prevent the
+proliferation of malware propagation by securing infrastructure links and
+limiting malware propagation to local device-to-device dissemination. This
+article proposes a novel traffic-aware patching scheme to select important
+intermediate nodes to patch, which applies to the IoT system with limited
+patching resources and response time constraint. Experiments on real-world
+trace datasets in IoT networks are conducted to demonstrate the advantage of
+the proposed traffic-aware patching scheme in alleviating malware propagation."
+Cyber-Security in Smart Grid: Survey and Challenges,2018-08-31T21:56:00Z,"Smart grid uses the power of information technology to intelligently deliver
+energy to customers by using a two-way communication, and wisely meet the
+environmental requirements by facilitating the integration of green
+technologies. Although smart grid addresses several problems of the traditional
+grid, it faces a number of security challenges. Because communication has been
+incorporated into the electrical power with its inherent weaknesses, it has
+exposed the system to numerous risks. Several research papers have discussed
+these problems. However, most of them classified attacks based on
+confidentiality, integrity, and availability, and they excluded attacks which
+compromise other security criteria such as accountability. In addition, the
+existed security countermeasures focus on countering some specific attacks or
+protecting some specific components, but there is no global approach which
+combines these solutions to secure the entire system. The purpose of this paper
+is to provide a comprehensive overview of the relevant published works. First,
+we review the security requirements. Then, we investigate in depth a number of
+important cyber-attacks in smart grid to diagnose the potential vulnerabilities
+along with their impact. In addition, we proposed a cyber security strategy as
+a solution to address breaches, counter attacks, and deploy appropriate
+countermeasures. Finally, we provide some future research directions."
+A Cyber-Security Investment Game for Networked Control Systems,2018-09-29T16:34:56Z,"We formulate a resource-planning game between an attacker and a defender of a
+network control system. We consider the network to be operating in closed-loop
+with a linear quadratic regulator (LQR). We construct a general-sum,
+two-player, mixed strategy game, where the attacker attempts to destroy
+communication equipment of some nodes, and thereby render the LQR feedback gain
+matrix to be sparse, leading to degradation of closed-loop performance. The
+defender, on the other hand, aims to prevent this loss. Both players trade
+their control performance objectives for the cost of their actions. A Mixed
+Strategy Nash Equilibrium (MSNE) of the game represents the allocation of the
+players' respective resources for attacking or protecting the network nodes. We
+analyze the dependence of a MSNE on the relative budgets of the players as well
+as on the important network nodes that must be preserved to achieve a desirable
+LQR performance. MSNE is computed using nonlinear programming. Results are
+validated using the New England power system model, and it is shown that
+reliable defense is feasible unless the cost of attack is very low or much
+smaller than the cost of protection per generator."
+Deep-Net: Deep Neural Network for Cyber Security Use Cases,2018-12-09T16:44:56Z,"Deep neural networks (DNNs) have witnessed as a powerful approach in this
+year by solving long-standing Artificial intelligence (AI) supervised and
+unsupervised tasks exists in natural language processing, speech processing,
+computer vision and others. In this paper, we attempt to apply DNNs on three
+different cyber security use cases: Android malware classification, incident
+detection and fraud detection. The data set of each use case contains real
+known benign and malicious activities samples. The efficient network
+architecture for DNN is chosen by conducting various trails of experiments for
+network parameters and network structures. The experiments of such chosen
+efficient configurations of DNNs are run up to 1000 epochs with learning rate
+set in the range [0.01-0.5]. Experiments of DNN performed well in comparison to
+the classical machine learning algorithms in all cases of experiments of cyber
+security use cases. This is due to the fact that DNNs implicitly extract and
+build better features, identifies the characteristics of the data that lead to
+better accuracy. The best accuracy obtained by DNN and XGBoost on Android
+malware classification 0.940 and 0.741, incident detection 1.00 and 0.997 fraud
+detection 0.972 and 0.916 respectively."
+"Semisupervised Adversarial Neural Networks for Cyber Security Transfer
+  Learning",2019-07-25T15:14:38Z,"On the path to establishing a global cybersecurity framework where each
+enterprise shares information about malicious behavior, an important question
+arises. How can a machine learning representation characterizing a cyber attack
+on one network be used to detect similar attacks on other enterprise networks
+if each networks has wildly different distributions of benign and malicious
+traffic? We address this issue by comparing the results of naively transferring
+a model across network domains and using CORrelation ALignment, to our novel
+adversarial Siamese neural network. Our proposed model learns attack
+representations that are more invariant to each network's particularities via
+an adversarial approach. It uses a simple ranking loss that prioritizes the
+labeling of the most egregious malicious events correctly over average
+accuracy. This is appropriate for driving an alert triage workflow wherein an
+analyst only has time to inspect the top few events ranked highest by the
+model. In terms of accuracy, the other approaches fail completely to detect any
+malicious events when models were trained on one dataset are evaluated on
+another for the first 100 events. While, the method presented here retrieves
+sizable proportions of malicious events, at the expense of some training
+instabilities due in adversarial modeling. We evaluate these approaches using 2
+publicly available networking datasets, and suggest areas for future research."
+"Security Risks and Modern Cyber Security Technologies for Corporate
+  Networks",2011-05-10T17:33:03Z,"This article aims to highlight current trends on the market of corporate
+antivirus solutions. Brief overview of modern security threats that can destroy
+IT environment is provided as well as a typical structure and features of
+antivirus suits for corporate users presented on the market. The general
+requirements for corporate products are determined according to the last report
+from av-comparatives.org [1]. The detailed analysis of new features is provided
+based on an overview of products available on the market nowadays. At the end,
+an enumeration of modern trends in antivirus industry for corporate users
+completes this article. Finally, the main goal of this article is to stress an
+attention about new trends suggested by AV vendors in their solutions in order
+to protect customers against newest security threats."
+Cyber security insights into self-proclaimed virtual world hackers,2019-08-29T01:31:53Z,"Virtual worlds have become highly popular in recent years with reports of
+over a billion people accessing these environments and the virtual goods market
+growing to near 50 billion US dollars. An undesirable outcome to this
+popularity and market value is thriving criminal activity in these worlds. The
+most profitable cyber security problem in virtual worlds is named Virtual
+Property Theft. The aim of this study is to use an online survey to gain
+insight into how hackers (n=100) in these synthetic worlds conduct their
+criminal activity. This survey is the first to report an insight into the
+criminal mind of hackers (virtual thieves). Results showed a clear-cut profile
+of a virtual property thief, they appear to be mainly aged 20-24 years of age,
+live in the United States of America, while using virtual worlds for 5-7 hours
+a day. These and the other key results of this study will provide a pathway for
+designing an effective anti-theft framework capable of abolishing this cyber
+security issue."
+"Approaching the Automation of Cyber Security Testing of Connected
+  Vehicles",2019-11-15T12:34:55Z,"The advancing digitalization of vehicles and automotive systems bears many
+advantages for creating and enhancing comfort and safety-related systems
+ranging from drive-by-wire, inclusion of advanced displays, entertainment
+systems up to sophisticated driving assistance and autonomous driving. It,
+however, also contains the inherent risk of being used for purposes that are
+not intended for, raging from small non-authorized customizations to the
+possibility of full-scale cyberattacks that affect several vehicles to whole
+fleets and vital systems such as steering and engine control. To prevent such
+conditions and mitigate cybersecurity risks from affecting the safety of road
+traffic, testing cybersecurity must be adopted into automotive testing at a
+large scale. Currently, the manual penetration testing processes cannot uphold
+the increasing demand due to time and cost to test complex systems. We propose
+an approach for an architecture that (semi-)automates automotive cybersecurity
+test, allowing for more economic testing and therefore keeping up to the rising
+demand induced by new vehicle functions as well as the development towards
+connected and autonomous vehicles."
+Insider threats in Cyber Security: The enemy within the gates,2019-11-21T16:09:21Z,"Insider threats have become reality for civilian firms such as Tesla, which
+experienced sabotage and intellectual property theft, and Capital One, which
+suffered from fraud. Even greater social impact was caused by the data breach
+at the US Department of Defense, perpetrated by well-known attackers Chelsea
+Manning and Edward Snowden, whose espionage and hacktivist activities are
+widely known. The dramatic increase of such incidents in recent years and the
+incalculable damage committed by insiders must serve as a warning for all
+members of the cyber security community. It is no longer acceptable to continue
+to underestimate the problem of insider threats. Firms, organizations,
+institutions and governments need to lead and embrace a cultural change in
+their security posture. Through the adoption of an Insider Threat Program that
+engages all the strategic branches (including HR, Legal, Information Assurance,
+Cyber Security and Intelligence), coordinated by the chief information security
+officer and supported by c-level executive, it is possible to implement a
+framework that can prevent, detect, and respond to disloyal and/or
+unintentional insider threats. Hence, defending your enterprise from insider
+threats is a vital part of information security best practices. It is essential
+that your company highly valuable classified data and assets are protected from
+its greatest threat: the enemy within the gates."
+"A framework for effective corporate communication after cyber security
+  incidents",2020-09-19T11:08:53Z,"A major cyber security incident can represent a cyber crisis for an
+organisation, in particular because of the associated risk of substantial
+reputational damage. As the likelihood of falling victim to a cyberattack has
+increased over time, so too has the need to understand exactly what is
+effective corporate communication after an attack, and how best to engage the
+concerns of customers, partners and other stakeholders. This research seeks to
+tackle this problem through a critical, multi-faceted investigation into the
+efficacy of crisis communication and public relations following a data breach.
+It does so by drawing on academic literature, obtained through a systematic
+literature review, and real-world case studies. Qualitative data analysis is
+used to interpret and structure the results, allowing for the development of a
+new, comprehensive framework for corporate communication to support companies
+in their preparation and response to such events. The validity of this
+framework is demonstrated by its evaluation through interviews with senior
+industry professionals, as well as a critical assessment against relevant
+practice and research. The framework is further refined based on these
+evaluations, and an updated version defined. This research represents the first
+grounded, comprehensive and evaluated proposal for characterising effective
+corporate communication after cyber security incidents."
+"A Survey of Cyber Security Countermeasures Using Hardware Performance
+  Counters",2018-07-28T01:43:27Z,"Cyber attacks and malware are now more prevalent than ever and the trend is
+ever upward. There have been several approaches to attack detection including
+resident software applications at the root or user level, e.g., virus
+detection, and modifications to the OS, e.g., encryption, application signing,
+etc. Some approaches have moved to lower level detection and preven- tion,
+e.g., Data Execution Prevention. An emerging approach in countermeasure
+development is the use of hardware performance counters existing in the
+micro-architecture of modern processors. These are at the lowest level,
+implemented in processor hardware, and the wealth of data collected by these
+counters affords some very promising countermeasures with minimal overhead as
+well as protection from being sabotaged themselves by attackers. Here, we
+conduct a survey of recent techniques in realizing effective countermeasures
+for cyber attack detection from these hardware performance counters."
+Cyber Security Challenges and Solutions for V2X Communications: A Survey,2019-01-04T11:08:12Z,"In recent years, vehicles became able to establish connections with other
+vehicles and infrastructure units that are located in the roadside. In the near
+future, the vehicular network will be expanded to include the communication
+between vehicles and any smart devices in the roadside which is called
+Vehicle-to-Everything (V2X) communication. The vehicular network causes many
+challenges due to heterogeneous nodes, various speeds and intermittent
+connection, where traditional security methods are not always efficacious. As a
+result, an extensive variety of research works has been done on optimizing
+security solutions whilst considering network requirements. In this paper, we
+present a comprehensive survey and taxonomy of the existing security solutions
+for V2X communication technology. Then, we provide discussions and comparisons
+with regard to some pertinent criteria. Also, we present a threat analysis for
+V2X enabling technologies. Finally, we point out the research challenges and
+some future directions."
+Deriving Cyber-security Requirements for Cyber Physical Systems,2019-01-07T15:05:41Z,"Today's cyber physical systems (CPS) are not well protected against cyber
+attacks. Protected CPS often have holes in their defense, due to the manual
+nature of today's cyber security design process. It is necessary to automate or
+semi-automate the design and implementation of CPS to meet stringent cyber
+security requirements (CSR), without sacrificing functional performance, timing
+and cost constraints. Step one is deriving, for each CPS, the CSR that flow
+from the particular functional design for that CPS. That is the task assumed by
+our system, Deriving Cyber-security Requirements Yielding Protected Physical
+Systems - DCRYPPS. DCRYPPS applies Artificial Intelligence (AI) technologies,
+including planning and model based diagnosis to an important area of cyber
+security."
+RNNSecureNet: Recurrent neural networks for Cyber security use-cases,2019-01-05T17:18:14Z,"Recurrent neural network (RNN) is an effective neural network in solving very
+complex supervised and unsupervised tasks. There has been a significant
+improvement in RNN field such as natural language processing, speech
+processing, computer vision and other multiple domains. This paper deals with
+RNN application on different use cases like Incident Detection, Fraud
+Detection, and Android Malware Classification. The best performing neural
+network architecture is chosen by conducting different chain of experiments for
+different network parameters and structures. The network is run up to 1000
+epochs with learning rate set in the range of 0.01 to 0.5.Obviously, RNN
+performed very well when compared to classical machine learning algorithms.
+This is mainly possible because RNNs implicitly extracts the underlying
+features and also identifies the characteristics of the data. This helps to
+achieve better accuracy."
+Cyber-Security in the Emerging World of Smart Everything,2021-09-13T09:46:50Z,"The fourth industrial revolution (4IR) is a revolution many authors believe
+have come to stay. It is a revolution that has been fast blurring the line
+between physical, digital and biological technologies. These disruptive
+technologies largely rely on high-speed internet connectivity, Cloud
+technologies, Augmented Reality, Additive Manufacturing, Data science and
+Artificial Intelligence. Most developed economies have embraced the it while
+the developing economies are struggling to adopt 4IR because they lack the
+requisite skills, knowledge and technology. Thus, this study investigates
+Nigeria as one of the developing economies to understand her readiness for 4IR
+and the level of preparedness to mitigate the sophisticated cyber-attacks that
+comes with it. The investigation adopted quantitative research approach and
+developed an online questionnaire that was shared amongst the population of
+interest that includes academic, industry experts and relevant stakeholders.
+The questionnaire returned 116 valid responses which were analysed with
+descriptive statistical tools in SPSS. Results suggest that 60 of the
+respondents opined that Nigerian government at are not showing enough evidence
+to demonstrate her preparedness to leverage these promised potentials by
+developing 4IR relevant laws, strong institutional frameworks and policies.
+They lack significant development capacity to mitigate risks associated with
+digital ecosystem and cyber ecosystem that are ushered in by the 4IR. In the
+universities, 52 of the courses offered at the undergraduate and 42 at the
+post-graduate levels are relevant in the development of skills required in the
+revolution. The study recommends that the government at all levels make
+adequate efforts in developing the countrys intangible assets. In all, this
+paper posits that successful implementation of these could equip Nigeria to
+embrace the 4IR in all its aspects."
+"From Cyber-Security Deception To Manipulation and Gratification Through
+  Gamification",2019-03-21T10:48:16Z,"With the ever growing networking capabilities and services offered to users,
+attack surfaces have been increasing exponentially, additionally, the intricacy
+of network architectures has increased the complexity of cyber-defenses, to
+this end, the use of deception has recently been trending both in academia and
+industry. Deception enables to create proactive defense systems, luring
+attackers in order to better defend the systems at hand. Current applications
+of deception, only rely on static, or low interactive environments. In this
+paper we present a platform that combines human-computer-interaction,
+analytics, gamification and deception to lure malicious users into selected
+traps while piquing their interests. Furthermore we analyse the interactive
+deceptive aspects of the platform through the addition of a narrative, further
+engaging malicious users into following a predefined path and deflecting
+attacks from key network systems."
+A Comparative Analysis of the Cyber Security Strategy of Bangladesh,2019-05-01T13:04:57Z,"Technology is an endless evolving expression in modern era, which increased
+security concerns and pushed us to create cyber environment. A National Cyber
+Security Strategy (NCSS) of a country reflects the state of that country's
+cyber strength which represents the aim and vision of the cyber security of a
+country. Formerly, researchers have worked on NCSS by comparing NCSS between
+different nations for international collaboration and harmonization and some
+researchers worked on policy framework for their respective governments.
+However very insignificant attempts had been made to assess the strategic
+strength of NCSS of Bangladesh by performing cross comparisons on NCSS of
+different Nations. Therefore, the motive of this research is to evaluate the
+robustness of the existing cyber security strategy of Bangladesh in comparison
+with some of the most technologically advanced countries in Asian continent and
+others like USA, Japan, Singapore, Malaysia and India in order to keep the NCSS
+of Bangladesh up-to-date."
+On the Cost of Cyber Security in Smart Business,2019-05-15T09:59:39Z,"In a world, as complex and constantly changing as ours cloud computing is a
+driving force for shaping the IT landscape and changing the way we do business.
+Current trends show a world of people, things and services all digitally
+interconnected via the Internet of Things (IoT). This applies in particular to
+an industrial environment where smart devices and intelligent services pave the
+way for smart factories and smart businesses. This paper investigates in a use
+case driven study the potential of making use of smart devices to enable
+direct, automated and voice-controlled smart businesses. Furthermore, the paper
+presents an initial investigation on methodologies for measuring costs of cyber
+security controls for cloud services."
+ACE -- An Anomaly Contribution Explainer for Cyber-Security Applications,2019-12-01T04:16:12Z,"In this paper, we introduce Anomaly Contribution Explainer or ACE, a tool to
+explain security anomaly detection models in terms of the model features
+through a regression framework, and its variant, ACE-KL, which highlights the
+important anomaly contributors. ACE and ACE-KL provide insights in diagnosing
+which attributes significantly contribute to an anomaly by building a
+specialized linear model to locally approximate the anomaly score that a
+black-box model generates. We conducted experiments with these anomaly
+detection models to detect security anomalies on both synthetic data and real
+data. In particular, we evaluate performance on three public data sets: CERT
+insider threat, netflow logs, and Android malware. The experimental results are
+encouraging: our methods consistently identify the correct contributing feature
+in the synthetic data where ground truth is available; similarly, for real data
+sets, our methods point a security analyst in the direction of the underlying
+causes of an anomaly, including in one case leading to the discovery of
+previously overlooked network scanning activity. We have made our source code
+publicly available."
+"Vulnerability Assessment of Load Frequency Control Considering Cyber
+  Security",2020-03-12T08:34:38Z,"Security is one of the biggest concern in power system operation. Recently,
+the emerging cyber security threats to operational functions of power systems
+arouse high public attention, and cybersecurity vulnerability thus become an
+emerging topic to evaluate compromised operational performance under cyber
+attack. In this paper, vulnerability of cyber security of load frequency
+control (LFC) system, which is the key component in energy manage system (EMS),
+is assessed by exploiting the system response to attacks on LFC
+variables/parameters. Two types of attacks: 1) injection attack and 2) scale
+attack are considered for evaluation. Two evaluation criteria reflecting the
+damage on system stability and power generation are used to quantify system
+loss under cyber attacks. Through a sensitivity-based method and attack tree
+models, the vulnerability of different LFC components is ranked. In addition, a
+post-intrusion cyber attack detection scheme is proposed. Classification-based
+schemes using typical classification algorithms are studied and compared to
+identify different attack scenarios."
+Bayesian Models Applied to Cyber Security Anomaly Detection Problems,2020-03-23T16:26:13Z,"Cyber security is an important concern for all individuals, organisations and
+governments globally. Cyber attacks have become more sophisticated, frequent
+and dangerous than ever, and traditional anomaly detection methods have been
+proved to be less effective when dealing with these new classes of cyber
+threats. In order to address this, both classical and Bayesian models offer a
+valid and innovative alternative to the traditional signature-based methods,
+motivating the increasing interest in statistical research that it has been
+observed in recent years. In this review we provide a description of some
+typical cyber security challenges, typical types of data and statistical
+methods, paying special attention to Bayesian approaches for these problems."
+"SOK: Building a Launchpad for Impactful Satellite Cyber-Security
+  Research",2020-10-21T09:58:00Z,"As the space industry approaches a period of rapid change, securing both
+emerging and legacy satellite missions will become vital. However, space
+technology has been largely overlooked by the systems security community. This
+systematization of knowledge paper seeks to understand why this is the case and
+to offer a starting point for technical security researchers seeking impactful
+contributions beyond the Earth's mesosphere.
+  The paper begins with a cross-disciplinary synthesis of relevant threat
+models from a diverse array of fields, ranging from legal and policy studies to
+aerospace engineering. This is presented as a ""threat matrix toolbox"" which
+security researchers may leverage to motivate technical research into given
+attack vectors and defenses. We subsequently apply this model to an original
+chronology of more than 100 significant satellite hacking incidents spanning
+the previous 60 years. Together, these are used to assess the state-of-the-art
+in satellite security across four sub-domains: satellite radio-link security,
+space hardware security, ground station security, and operational/mission
+security. In each area, we note significant findings and unresolved questions
+lingering in other disciplines which the systems security community is aptly
+poised to tackle. By consolidating this research, we present the case that
+satellite systems security researchers can build on strong, but disparate,
+academic foundations and rise to meet an urgent need for future space missions."
+A reputation game on cyber-security and cyber-risk calibration,2020-11-30T06:20:46Z,"To analyze strategic interactions arising in the cyber-security context, we
+develop a new reputation game model in which an attacker can pretend to be a
+normal user and a defender may have to announce attack detection at a certain
+point of time without knowing whether he has been attacked. We show the
+existence and uniqueness of sequential equilibrium in Markov strategies, and
+explicitly characterize the players' equilibrium strategies. Using our model,
+we suggest empirical and theoretical ways of calibrating the attack
+probability, which is an important element of cyber-risks."
+"Research Communities in cyber security: A Comprehensive Literature
+  Review",2021-04-22T14:53:01Z,"In order to provide a coherent overview of cyber security research, the
+Scopus academic abstract and citation database was mined to create a citation
+graph of 98,373 authors active in the field between 1949 and early 2020. The
+Louvain community detection algorithm was applied to the graph in order to
+identify existing research communities. The analysis discovered twelve
+top-level communities: access control, authentication, biometrics, cryptography
+(I & II), cyber-physical systems, information hiding, intrusion detection,
+malwares, quantum cryptography, sensor networks, and usable security. These
+top-level communities were in turn composed of a total of 80 sub-communities.
+The analysis results are presented for each community in descriptive text,
+sub-community graphs, and tables with, for example, the most-cited papers and
+authors. A comparison between the detected communities and topical areas
+defined by other related work, is also presented, demonstrating a greater
+researcher emphasis on cryptography, quantum cryptography, information hiding
+and biometrics, at the expense of laws and regulation, risk management and
+governance, and security software lifecycle."
