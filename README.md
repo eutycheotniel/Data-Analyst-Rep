@@ -1,32 +1,32 @@
 # Description
-This project revolves around a challenge from the arXiv platform related to data analysis and visualization. The goal is to explore and extract information from arXiv articles using Python, particularly focusing on the field of cyber security.
+Ce projet s'articule autour d'un défi de la plateforme arXiv lié à l'analyse et à la visualisation des données. L'objectif est d'explorer et d'extraire des informations des articles arXiv en utilisant Python, en se concentrant particulièrement sur le domaine de la cybersécurité.
 
-# Files in Repository
+# fichiers du projet
 1. ArxivChallenge.csv
-This CSV file contains the data extracted and processed from the arXiv API. It includes information such as article titles, publication dates, and summaries, providing a structured dataset for further analysis and visualization.
+Ce fichier CSV contient les données extraites et traitées depuis l'API arXiv. Il comprend des informations telles que les titres des articles, les dates de publication et des résumés, fournissant un ensemble de données structurées pour une analyse et une visualisation plus approfondies.
 
 2. arxiv_challenge.ipynb
-The Jupyter Notebook (arxiv_challenge.ipynb) is the main script for the project. It walks through the process of querying the arXiv API, processing the data, and creating visualizations. The notebook serves as a comprehensive guide to understanding the steps taken in the project.
+Le Jupyter Notebook (arxiv_challenge.ipynb) est le script principal du projet. Il parcourt le processus d'interrogation de l'API arXiv, de traitement des données et de création de visualisations. Le cahier sert de guide complet pour comprendre les étapes franchies dans le projet.
 
-3. VisualizationArxiv.pbix
-The Power BI file (VisualizationArxiv.pbix) is included for those who want to explore the data through interactive visualizations. It connects to the CSV file to create dynamic and insightful visual representations of the arXiv article data.
+3. VisualisationArxiv.pbix
+Le fichier Power BI (VisualizationArxiv.pbix) est inclus pour ceux qui souhaitent explorer les données via des visualisations interactives. Il se connecte au fichier CSV pour créer des représentations visuelles dynamiques et perspicaces des données de l'article arXiv.
 
-4. README.md
-This document provides an overview of the project, details about each file in the repository, and instructions on how to use and understand the project. It acts as a guide for anyone interested in exploring or contributing to the project.
+4. LISEZMOI.md
+Ce document fournit une présentation du projet, des détails sur chaque fichier du référentiel et des instructions sur la façon d'utiliser et de comprendre le projet. Il sert de guide à toute personne intéressée à explorer ou à contribuer au projet.
 
-# Getting Started
-To explore the project, follow these steps:
+# Instruction
+Pour explorer le projet, suivez ces étapes :
 
-Open arxiv_challenge.ipynb in Jupyter Notebook to review the code and understand the data processing steps.
+Ouvrez arxiv_challenge.ipynb dans Jupyter Notebook pour consulter le code et comprendre les étapes de traitement des données.
 
-Examine the ArxivChallenge.csv file for a structured representation of the arXiv article data.
+Examinez le fichier ArxivChallenge.csv pour une représentation structurée des données de l'article arXiv.
 
-If you prefer interactive visualizations, open VisualizationArxiv.pbix in Power BI and connect it to the CSV file.
+Si vous préférez les visualisations interactives, ouvrez VisualizationArxiv.pbix dans Power BI et connectez-le au fichier CSV.
 
-Feel free to adapt and extend this project based on your requirements or use it as a starting point for further analysis.
+N'hésitez pas à adapter et à étendre ce projet en fonction de vos besoins ou à l'utiliser comme point de départ pour une analyse plus approfondie.
 
-# Dependencies
-The project relies on Python libraries such as requests, xmltodict, and pandas for data retrieval and processing. Ensure these are installed before running the Jupyter Notebook.
+# Dépendances
+Le projet s'appuie sur des bibliothèques Python telles que requêtes, xmltodict et pandas pour la récupération et le traitement des données. Assurez-vous qu’ils sont installés avant d’exécuter Jupyter Notebook.
 
-Author
-Eutyche Anoman
+Auteur
+Eutyché Anoman
