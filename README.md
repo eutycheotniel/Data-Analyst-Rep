@@ -1,5 +1,5 @@
 # Description
-Ce projet s'articule autour d'un défi de la plateforme arXiv lié à l'analyse et à la visualisation des données. L'objectif est d'explorer et d'extraire des informations des articles arXiv en utilisant Python, en se concentrant particulièrement sur le domaine de la cybersécurité.
+Ce projet autour de la plateforme arXiv est lié à l'analyse et à la visualisation des données. L'objectif est d'explorer et d'extraire des informations des articles arXiv en utilisant Python, en se concentrant particulièrement sur le domaine de la cybersécurité.
 
 # fichiers du projet
 1. ArxivChallenge.csv
@@ -8,10 +8,10 @@ Ce fichier CSV contient les données extraites et traitées depuis l'API arXiv. 
 2. arxiv_challenge.ipynb
 Le Jupyter Notebook (arxiv_challenge.ipynb) est le script principal du projet. Il parcourt le processus d'interrogation de l'API arXiv, de traitement des données et de création de visualisations. Le cahier sert de guide complet pour comprendre les étapes franchies dans le projet.
 
-3. VisualisationArxiv.pbix
+3. VisualizationArxiv.pbix
 Le fichier Power BI (VisualizationArxiv.pbix) est inclus pour ceux qui souhaitent explorer les données via des visualisations interactives. Il se connecte au fichier CSV pour créer des représentations visuelles dynamiques et perspicaces des données de l'article arXiv.
 
-4. LISEZMOI.md
+4. README.md
 Ce document fournit une présentation du projet, des détails sur chaque fichier du référentiel et des instructions sur la façon d'utiliser et de comprendre le projet. Il sert de guide à toute personne intéressée à explorer ou à contribuer au projet.
 
 # Instruction
