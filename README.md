@@ -29,4 +29,4 @@ N'hésitez pas à adapter et à étendre ce projet en fonction de vos besoins ou
 Le projet s'appuie sur des bibliothèques Python telles que requêtes, xmltodict et pandas pour la récupération et le traitement des données. Assurez-vous qu’ils sont installés avant d’exécuter Jupyter Notebook.
 
 Auteur
-Eutyché Anoman
+Eutyche Anoman
